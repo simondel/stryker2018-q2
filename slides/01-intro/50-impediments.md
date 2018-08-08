@@ -1,0 +1,3 @@
+### Impediments
+
+* Gebrek aan developers
